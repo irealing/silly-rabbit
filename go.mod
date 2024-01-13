@@ -1,4 +1,4 @@
-module github.com/irealing/silly-code/rabbit
+module github.com/irealing/silly-rabbit
 
 go 1.21
 
